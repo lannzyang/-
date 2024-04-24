@@ -12,7 +12,9 @@
 ·使用 Selenium 进行后台爬取链接
 ·利用 vip.bljiex.com 接口获取视频
 ·对芒果TV平台提供了 Tkinter 界面，包括图片和影视信息等
-<img src="https://github.com/lannzyang/-my_tag/assets/150817172/c0c2e914-38c5-454e-a032-53beb2c0b126" alt="屏幕截图" width="400" height="300">
 
+<br>
+<img src="https://github.com/lannzyang/-my_tag/assets/150817172/c0c2e914-38c5-454e-a032-53beb2c0b126" alt="屏幕截图" width="400" height="300">
+<br>
 
 ·由于爱奇艺平台是先写的，代码如sh*t,所以懒得改。反正我自己用嘿嘿嘿，你管不着噢噢噢噢。
