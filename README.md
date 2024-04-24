@@ -2,7 +2,9 @@
 <p>·selenium使用的是Edge</p>
 <p>·下载版本对应的driver到run.py这个目录下。</p>
 <br>
-使用：
+<h1>使用：</h1>
+<p>pip install -r requirements.txt</p>
+<p>driver link: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH#downloads</p>
 <p>·run.py用来爬取搜索</p>
 <p>·rerun.py可以加载上一次爬取的连接（仅限电视剧或者有多个集数的）,url储存在log.txt中</p>
 <br>
