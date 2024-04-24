@@ -1,0 +1,4 @@
+selenium
+tkinter
+Pillow
+requests
